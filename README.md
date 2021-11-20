@@ -24,7 +24,7 @@ mi primer pagina web
 <body >
 
 <h1>TIENDA DE PLANTAS</h1>
-<img src="img/sucus.jpg" width="400" height="350"  >
+<img src="elizabeth hernandez/img/sucus.jpg" width="400" height="350"  >
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
